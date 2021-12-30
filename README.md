@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/PDennSploit-Softworks-LLC/mechlife/releases" target="_blank">
-        <img width="50%" src="https://i.imgur.com/IJsQMg1.png" alt="Mechlife Logo">
+        <img width="50%" src="logo.png" alt="Mechlife Logo">
     </a>
 </p>
 

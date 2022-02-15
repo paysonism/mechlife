@@ -12,7 +12,7 @@ Mechlife is the best way to bring your love for mechanical keyboards to life! Wh
 
 OS Key:
 
-`win = Windows`
+`win = Windows` - 
 `mac = MacOS`
 
 ## Usage
@@ -51,7 +51,7 @@ Even though Mechlife is free. There are some paid addons and soundpacks for it. 
 
 Creating you own sounds is easy with the Mechlife editor. If you want an easy video to get you started, go ahead and watch the video below!
 
-<iframe src="https://youtube.com/">
+<iframe src="https://youtube.com/"></iframe>
   
 ## Distributing & Selling
   

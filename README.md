@@ -1,207 +1,92 @@
-<div id="top"></div>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stars][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+# About the Project
 
+Mechlife is the best way to bring your love for mechanical keyboards to life! Whether you don't have one, or your mechanical keyboard is just to loud for work or at night, this is for you. Mechlife started in Early November of 2021. Many improvments have since been added. To see the progress and some internals, feel free to join the [discord server](https://dsc.gg/mechlife)!
 
+ ## Installation
+ 
+ Installing Mechlife is really simple and easy. We currently don't offer a website but it will be coming soon. Therefore we will be using github to install. Just follow the steps below to install Mechlife correctly!
+ 
+ 1. Go to the [releases]() page and download the latest version for your OS.
+ 2. Run the downloaded application.
+ 3. Follow the steps on the installer and enjoy!
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/PDennSploit-Softworks-LLC/mechlife">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+OS Key:
 
-<h3 align="center">Mechlife</h3>
+`win = Windows`
+`mac = MacOS`
 
-  <p align="center">
-    Bring you keyboard to life.
-    <br />
-    <a href="#"><strong>Read the Docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/PDennSploit-Softworks-LLC/mechlife/issues">Issues</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Download</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Screenshot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Mechlife can be used in many different ways for many different reasons. For example, If you wanted to make it sound like you have a mechanical keyboard but didn't have one or couldn't offord one, you could use Mechlife to do that. Or if you cant use yours at work because it would be too loud. Whatever the reason is, this is right for you.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+## Features
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Mechlife is constantly being updated and features are constantly beign worked on. In this section, we will go over the key features Mechlife currently has to offer.
 
+## Enable on start
 
+In case you always want to have Mechlife open, you can enable it to open whenever you restart your PC!
 
-<!-- ROADMAP -->
-## Roadmap
+## Volume Control
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+In case you need to listen to something else or want your keyboard sounds to be quieter, Mechlife offers a vloume setting specifically for the keyboard sounds only!
 
-See the [issues](https://github.com/PDennSploit-Softworks-LLC/mechlife/issues) for a full list of proposed features (and known issues).
+## Custom Sounds
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Mechlife supports custom keyboard sounds in case you want to record the sounds of a keyboard you like and then turn them into a sound on Mechlife!
 
+## Editor
 
+This editor allows you to create your own custom sounds for mechlife. With a simple and easy to use GUI, it makes the tedious task much easier with know programming background knowledge required!
 
-<!-- CONTRIBUTING -->
-## Contributing
+## Typing Test
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Mechlife has it's own built in Typing Test so you can test your typing speed without having to use up extra CPU by going online!
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+## Making, Publishing, and Selling Custom sounds
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Even though Mechlife is free. There are some paid addons and soundpacks for it. Sometimes you might want to make some money, or just want a sound that isn't already made, either way. You can create what you want with the Mechlife editor. Maybe even make some profit off of it!
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Creating Sounds
 
+Creating you own sounds is easy with the Mechlife editor. If you want an easy video to get you started, go ahead and watch the video below!
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Payson Holmes - [@PDennSploitLLC](https://twitter.com/PDennSploitLLC) - paysonholmes@gmail.com
-
-Project Link: [https://github.com/PDennSploit-Softworks-LLC/mechlife](https://github.com/PDennSploit-Softworks-LLC/mechlife)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PDennSploit-Softworks-LLC/mechlife.svg
-[contributors-url]: https://github.com/PDennSploit-Softworks-LLC/mechlife/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PDennSploit-Softworks-LLC/mechlife.svg
-[forks-url]: https://github.com/PDennSploit-Softworks-LLC/mechlife/network/members
-[stars-shield]: https://img.shields.io/github/stars/PDennSploit-Softworks-LLC/mechlife.svg
-[stars-url]: https://github.com/PDennSploit-Softworks-LLC/mechlife/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PDennSploit-Softworks-LLC/mechlife.svg
-[issues-url]: https://github.com/PDennSploit-Softworks-LLC/mechlife/issues
-[license-shield]: https://img.shields.io/github/license/PDennSploit-Softworks-LLC/mechlife.svg
-[license-url]: https://github.com/PDennSploit-Softworks-LLC/mechlife/LICENSE
-[product-screenshot]: images/screenshot.png
+<iframe src="https://youtube.com/">
+  
+## Distributing & Selling
+  
+  If you have created a Mechlife soundpack, and would like to either post it in the soundpack collection, or sell it, this section will help to get you started.
+  
+  ## Posting
+  
+  If you want to post your soundpack for free download on the soundpack collection, you can do so by following the steps below!
+  
+  1. Join the Mechlife [discord server](https://dsc.gg/mechlife).
+  
+  2. Verify & Read the rules.
+  
+  3. Go to the #custom-soundpacks channel.
+  
+  4. Post your soundpack in a .ZIP archive with your pack name and description.
+  
+  5. Wait until the next checking date until you get a DM froma moderator or admin that you soundpack will be added or not!
+  
+  ## Selling Soundpacks
+  
+  Selling soundpacks is easy. If you made a soundpack of premium quality and want to make some money off of your creation, this will get you started.
+  
+  ## The Methods
+  
+  The first method is selling through the Mechlife store. This is the best and easiest method possible! All you have to do is DM or email an admin with a request to sell your soundpack on the Mechlife store. He will then have you upload you soundpack with your name, description, and price. After that, he will then test it out and determine if the pack is of premium quality. If it is accepted you can expect your soundpack to be on the store within the next 2 weeks.
+  
+  Third Part is the second most popular method. The most popular third party website is gumroad, this allows you to post your soundpack with custom prices and bids. There is now real way to tell you guys how to do this so just read their tutorial idk.
+  
+## Downloading Soundpacks
+  
+  Downloading soundpacks from the Mechlife collection is simple! All you have to do is visit the [Soundpack collection](https://pdennsploit-softworks-llc.github.io/mechlife.github.io/soundpacks.htm), find the soundpack you want. Then download it and place it in the mechlife_custom folder. You can find the folder by right clicking the Mechlife icon and then choosing "Custom Folder".
+  
+# Credits
+  
+Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
+  
+&copy; 2022 - PDennSploit Softworks LLC

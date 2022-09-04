@@ -1,6 +1,6 @@
 # About the Project
 
-Mechlife is the best way to bring your love for mechanical keyboards to life! Whether you don't have one, or your mechanical keyboard is just to loud for work or at night, this is for you. Mechlife started in Early November of 2021. Many improvments have since been added. To see the progress and some internals, feel free to join the [discord server](https://dsc.gg/mechlife)!
+Mechlife is the best way to bring your love for mechanical keyboards to life! Whether you don't have one, or your mechanical keyboard is just to loud for work or at night, this is for you. Mechlife started in Early November of 2021. Many improvments have since been added. To see the progress and some internals, feel free to join the [discord server](https://dsc.gg/PDennSploit)!
 
  ## Installation
  

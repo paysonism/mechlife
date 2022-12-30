@@ -6,7 +6,7 @@ Mechlife is the best way to bring your love for mechanical keyboards to life! Wh
  
  Installing Mechlife is really simple and easy. We currently don't offer a website but it will be coming soon. Therefore we will be using github to install. Just follow the steps below to install Mechlife correctly!
  
- 1. Go to the [releases]() page and download the latest version for your OS.
+ 1. Go to the [releases](https://github.com/P-DennyGamingYT/mechlife/releases/latest) page and download the latest version for your OS.
  2. Run the downloaded application.
  3. Follow the steps on the installer and enjoy!
 

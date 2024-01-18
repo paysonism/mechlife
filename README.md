@@ -85,6 +85,6 @@ Creating you own sounds is easy with the Mechlife editor. If you want an easy vi
   
 # Credits
   
-Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
+Made By [Payson Holmes](https://github.com/paysonism/)
   
-&copy; 2023 - PDennSploit Softworks LLC
+&copy; 2024 - SubZero Software Development
